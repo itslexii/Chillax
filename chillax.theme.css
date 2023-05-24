@@ -27,7 +27,7 @@
 
 /*removable addons*/
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
-@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css"); */
+@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css"); 
 @import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
@@ -53,7 +53,7 @@
   --window-margin-left: 15px; /*must be above 20px*/
   --window-margin-right: 15px;
   --window-margin-bottom: 15px;
-  --window-margin-top: 25px;
+  --window-margin-top: 25px;  
   --window-colour: rgba(255, 255, 255, 0.6);
   --window-blur: 3px;
   --window-border-radius: 10px;
@@ -100,7 +100,7 @@
 
      
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--essence-light-bg);
+  --background-image:var(--de-suggested-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
   --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
