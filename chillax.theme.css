@@ -26,10 +26,8 @@
 @import url('https://warrayquipsome.github.io/Chillax/chillax.css');
 
 /*removable addons*/
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css");
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
-@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css");
+@import url("https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css"); */
 @import url("https://warrayquipsome.github.io/Chillax/Addons/AvatarOnlyMemberList.css");
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
 
@@ -102,13 +100,14 @@
 
      
 /*background image*/ /*(replace the link to use)*/
-  --background-image:var(--modern-light-bg);
+  --background-image:var(--essence-light-bg);
 /*bg dev suggestions*/
   --wq-suggested-bg: url('https://wallpaperaccess.com/full/2799204.jpg');
   --de-suggested-bg: url('https://i.imgur.com/BtNVFtq.jpg');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
+  --essence-light-bg: url('https://raw.githubusercontent.com/itslexii/essence/main/assets/theme-bgs/midnight-essence.png');
 }
 
 
@@ -146,7 +145,6 @@
   --background-primary: transparent;
   --background-secondary: transparent;
   --background-tertiary: transparent;
-  --background-accent: rgb(27, 27, 27);
   --activity-card-background: transparent;
   --deprecated-panel-background: transparent;
 }
@@ -193,4 +191,3 @@
  Better Spotify Control                   by Uri
 =================================================================
 */
-
